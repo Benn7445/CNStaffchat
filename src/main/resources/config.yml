@@ -1,0 +1,5 @@
+messages:
+  no-permissions: "&cYou don't have any permissions."
+  only-players: "&cOnly players can execute this command."
+  staffchat-enabled: "&aYour staffchat has been enabled."
+  staffchat-disabled: "&cYour staffchat has been disabled."
