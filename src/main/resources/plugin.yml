@@ -1,0 +1,4 @@
+name: CNStaffchat
+version: '${project.version}'
+main: me.quartz.cnstaffchat.CNStaffchat
+api-version: '1.20'

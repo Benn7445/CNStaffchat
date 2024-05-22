@@ -1,0 +1,17 @@
+package me.quartz.cnstaffchat;
+
+import org.bukkit.plugin.java.JavaPlugin;
+
+public final class CNStaffchat extends JavaPlugin {
+
+    @Override
+    public void onEnable() {
+        // Plugin startup logic
+
+    }
+
+    @Override
+    public void onDisable() {
+        // Plugin shutdown logic
+    }
+}
