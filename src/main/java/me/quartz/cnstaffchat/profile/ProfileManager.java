@@ -15,7 +15,7 @@ public class ProfileManager {
     public Profile getProfile(UUID uuid) {
         Profile profile = profiles.stream().filter(profile1 -> profile1.getUuid().toString().equals(uuid.toString())).findFirst().orElse(null);
         if(profile == null) {
-            profile = new Profile(uuid, false, false);
+            profile = new Profile(uuid, false, false, false);
             profiles.add(profile);
         }
         return profile;

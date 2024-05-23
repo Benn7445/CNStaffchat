@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="CNStaffchat:jar3">
+    <output-path>$USER_HOME$/Desktop/bungee/server - Copy/plugins</output-path>
+    <root id="archive" name="CNStaffchat.jar">
+      <element id="module-output" name="CNStaffchat" />
+    </root>
+  </artifact>
+</component>
